@@ -1,0 +1,6 @@
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/CMakeFiles/rebuild_cache.dir
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/CMakeFiles/edit_cache.dir
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/CMakeFiles/FaceRecC.dir
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/build/dlib_build/CMakeFiles/dlib.dir

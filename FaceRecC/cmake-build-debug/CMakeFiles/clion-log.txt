@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/mackhartley/Code/School/CompGeo/project/FaceRecC
+-- Searching for BLAS and LAPACK
+-- Searching for BLAS and LAPACK
+-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) 
+-- Found OpenBLAS library
+-- Looking for sgetrf_single
+-- Looking for sgetrf_single - not found
+-- Found LAPACK library
+-- Building a C++11 test project to see if your compiler supports C++11
+-- C++11 activated.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mackhartley/Code/School/CompGeo/project/FaceRecC/cmake-build-debug

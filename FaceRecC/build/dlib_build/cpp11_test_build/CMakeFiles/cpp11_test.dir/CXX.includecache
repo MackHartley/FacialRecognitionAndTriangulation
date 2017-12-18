@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mackhartley/Code/School/CompGeo/project/FaceRecC/dlib/cmake_utils/test_for_cpp11/cpp11_test.cpp
+memory
+-
+iostream
+-
+
